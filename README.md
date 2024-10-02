@@ -260,7 +260,7 @@ Our analysis of the Netflix dataset has yielded several valuable insights into t
 - **Diverse Content Portfolio:** The dataset reveals a wide range of movies and TV shows with varying ratings and genres, catering to diverse audience preferences.
 - **Ratings Analysis:** By examining the most common ratings, we gain a deeper understanding of the target audience and the types of content that resonate with them.
 - **Regional Content Trends:** Our analysis highlights the top countries with the most content releases, with a special focus on India's average content releases, providing a glimpse into regional content distribution patterns.
--**Content Classification:** By categorizing content based on specific keywords, we can better understand the nature and themes of the content available on Netflix.
+- **Content Classification:** By categorizing content based on specific keywords, we can better understand the nature and themes of the content available on Netflix.
 
 ## Conclusion
 
